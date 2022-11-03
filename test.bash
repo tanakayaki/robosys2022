@@ -1,5 +1,5 @@
 #!/bin/bash -xv
-# SODX-FileCopyrightText: 2022 Konomi Tanaka
+# SPDX-FileCopyrightText: 2022 Konomi Tanaka
 # SPDX-License-Identifier: BSD-3-Clause
 
 ng ( ) {
