@@ -21,4 +21,4 @@
 ## テスト環境
 * Ubuntu
 
-© 2022 Ryuichi Ueda 
+© 2022 Konomi Tanaka 
