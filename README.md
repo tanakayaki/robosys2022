@@ -5,8 +5,7 @@
 https://github.com/tanakayaki/robosys2022
 
 # 利用環境
-Python 3.7～3.10
-   Ubuntu 18.04	でテスト済み
+Python 3.7～3.10 \n Ubuntu 18.04でテスト済み
 
 # 著作権・ライセンスについて
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
