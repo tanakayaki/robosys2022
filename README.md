@@ -1,8 +1,8 @@
 # robosys2022
 ロボットシステム学の授業で使用している練習用のリポジトリです．
 
-# ダウンロード用URL
-https://github.com/tanakayaki/robosys2022
+# ダウンロード
+git clone https://github.com/tanakayaki/robosys2022
 
 # Plus
 標準入力によって入力された数字の階乗の値が出力される．
@@ -15,7 +15,9 @@ seq [任意の数字] | ./plus
 
 # 利用環境
 Python 3.7～3.10
-   * Ubuntu 18.04でテスト済み
+
+# テスト環境
+Ubuntu 3.7～3.10
 
 # 著作権・ライセンスについて
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
