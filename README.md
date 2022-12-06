@@ -2,7 +2,7 @@
 ロボットシステム学の授業で使用している練習用のリポジトリです．
 
 # ダウンロード
-git clone https://github.com/tanakayaki/robosys2022
+```git clone https://github.com/tanakayaki/robosys2022```
 
 # Plus
 標準入力によって入力された数字の, 1からその数字までを足し合わせた値が出力される．
